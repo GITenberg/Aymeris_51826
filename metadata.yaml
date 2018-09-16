@@ -1,0 +1,27 @@
+_repo: Aymeris_51826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanche, Jacques-Émile
+    alias: Blanche, Jacques-Emile
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '46567'
+    url: http://www.gutenberg.org/2009/agents/46567
+    wikipedia: https://fr.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche
+description: Illustrated by the author.
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51826'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+title: Aymeris
+url: http://www.gutenberg.org/ebooks/51826
